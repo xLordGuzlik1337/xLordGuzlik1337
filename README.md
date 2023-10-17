@@ -1,6 +1,7 @@
 ### Hi there 👋
-### 🔭 I’m currently working on .college..
-
+### 🔭 I’m currently study  on .college..
+### 💬 Ask me about ... Мне 18 лет я учусь в колледже бизнеса и права
+### 🌱 I’m currently learning  программирование
 <!--
 **xLordGuzlik1337/xLordGuzlik1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
